@@ -1,12 +1,12 @@
-import java.util.*;
+//import java.util.*;
 class Calc
 {
   public static void main(String args[])
   {
-    int a,b;
-    Scanner s=new Scanner(System.in);
-    a=s.nextInt();
-    b=s.nextInt();
-    System.out.println(a+b);
+  //  int a,b;
+    //Scanner s=new Scanner(System.in);
+    //a=s.nextInt();
+    //b=s.nextInt();
+    System.out.println(10+20);
   }
 }
