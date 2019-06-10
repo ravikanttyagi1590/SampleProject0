@@ -6,7 +6,7 @@ class Calc
     int a,b;
     //Scanner s=new Scanner(System.in);
     a=Integer.parseInt(args[1]);
-    b=Integer.parseInt(args[2])
+    b=Integer.parseInt(args[0])
     System.out.println(a+b);
   }
 }
